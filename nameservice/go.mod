@@ -1,4 +1,4 @@
-module sdk-application-tutorial
+module github.com/zk10015130/sdk-tutorials/nameservice
 
 go 1.12
 
